@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>そらとの簡単なVtuber紹介.com</title>
+</head>
+<body>
+ <h1>おすすめのVtuber</h1>
+<ul>
+    <img src="liver-cropped_Kuzuha.png" alt="葛葉の画像">
+    <li>葛葉
+        <ul>
+            <li>ゲーム配信と雑談配信がメイン。トークが面白い。たくさんの人と関わりがあるので新しく好きな人を見つけられるのも魅力。</li>
+            <li><a href="https://www.youtube.com/channel/UCSFCh5NL4qXrAy9u-u2lX3g">葛葉のyoutubeチャンネル</a></li>
+        </ul>
+    </li>
+    <img src="liver-full-body_Chihiro_Yuki.png" alt="勇気ちひろの画像">
+    <li>勇気ちひろ
+        <ul>
+            <li>ゲーム配信がメイン。あのお笑い芸人ジャングルポケットに認められるくらい面白い。是非見て欲しい。</li>
+            <li><a href="https://www.youtube.com/channel/UCLO9QDxVL4bnvRRsz6K4bsQ">勇気ちひろのyoutubeチャンネル</a></li>
+        </ul>
+    </li>
+    <img src="liver-cropped_Ibrahim.png" alt="イブラヒムの画像">
+    <li>イブラヒム
+        <ul>
+            <li>ゲーム配信がメイン。スパチャ大喜利や名前イジられが面白い。よくスーパーチャット欄に芸能人の偽者が出没する。</li>
+            <li><a href="https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A">イブラヒムのyoutubeチャンネル</a></li>
+        </ul>
+    </li>
+    <img src="liver-full-body_Chaika_Hanabatake.png" alt="花畑チャイカの画像">
+    <li>花畑チャイカ
+        <ul>
+            <li>ゲーム配信と雑談配信がメイン下ネタが多めだが、キレ芸などがとにかく面白い、僕はこの人が一番好きです。</li>
+            <li><a href="https://www.youtube.com/channel/UCsFn_ueskBkMCEyzCEqAOvg">花畑チャイカのyoutubeチャンネル</a></li>
+        </ul>
+    </li>
+    <img src="liver-full-body_Mito_Tsukino.png" alt="月ノ美兎の画像">
+    <li>月ノ美兎
+        <ul>
+            <li>ゲーム配信と雑談配信がメイン。にじさんじの代表格。トークが面白い。狂気に満ちた感じが結構好き。</li>
+            <li><a href="https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A">月ノ美兎のyoutubeチャンネル</a></li>
+        </ul>
+    </li>
+</ul>
+<h3><p>他にも面白いライバーは沢山いるので、<br>下の動画を見て好きなライバーさんを見つけてみてください！！！！</p></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Rcotk_nn04" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
